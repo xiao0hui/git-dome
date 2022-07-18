@@ -8,11 +8,8 @@ hello word !!
 hello word !!
 hello word !!
 hello word !!
-<<<<<<< HEAD
 hello word !! msater test
-=======
 hello word !! hot-fix test
->>>>>>> hot-fix
 
 
 
